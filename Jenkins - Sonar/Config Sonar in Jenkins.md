@@ -1,3 +1,4 @@
+```
 sonar.projectKey=com.axonactive.mrbs.dev
 sonar.projectName=mrbs-dev
 sonar.projectVersion=1.0
@@ -5,3 +6,4 @@ sonar.sources=src/main/java
 sonar.tests=src/test/java
 sonar.java.binaries=target/classes
 sonar.coverage.exclusions=src/main/java/com/axonactive/mrbs/controller/**,src/main/java/com/axonactive/mrbs/model/**,src/main/java/com/axonactive/mrbs/modelview/**
+```
